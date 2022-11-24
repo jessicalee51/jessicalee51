@@ -3,4 +3,4 @@
 - 👀 I'm interested in doing ETL process using SQL, and creating insightful data visualisations.
 - 🌱 I’m currently studying in a online Data Analyst Bootcamp.
 - 💞️ I’m looking to collaborate on making BI reports or Data & Analytics Projects.
-- 📫 How to reach me j.lee51@outlook.com
+- 📫 How to reach me via email: j.lee51@outlook.com
