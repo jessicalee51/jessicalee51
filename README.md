@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica
 - I am a graduate of Master of Commerce from the University of Queensland. My major was Information Systems.
-- 👀 I'm interested in doing ETL process using SQL/Power Query, and create insightful data visualisations.
+- 👀 I'm interested in doing ETL process using SQL, and create insightful data visualisations.
 - 🌱 I’m currently studying in a online Data Analyst Bootcamp.
 - 💞️ I’m looking to collaborate on making BI reports or Data & Analytics Projects.
 - 📫 How to reach me j.lee51@outlook.com
